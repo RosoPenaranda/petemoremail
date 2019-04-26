@@ -1,2 +1,2 @@
-# petemoremail
-## HTML para campaña de email marketing
+# Contenido
+HTML para campaña de email marketing
